@@ -1,9 +1,9 @@
 version: "2"
 
 build:
-  os: "ubuntu-22.04"
+  os: "Windows 10"
   tools:
-    python: "3.10"
+    matlab: R2022b or more
 
 python:
   install:
